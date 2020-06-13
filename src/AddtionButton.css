@@ -1,0 +1,11 @@
+.bodyArea {
+    background-color: aqua;
+    width: 700px;
+    height: 500px;
+}
+
+.numberArea {
+    color: black;
+    font-weight: bolder;
+}
+
